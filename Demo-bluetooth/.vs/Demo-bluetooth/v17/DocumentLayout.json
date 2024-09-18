@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\bluetoothreceiver .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\bluetoothreceiver .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\gattcallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\gattcallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\demo-bluetooth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\demo-bluetooth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|c:\\users\\otc\\downloads\\demobluetooth\\demo-bluetooth\\demo-bluetooth\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94108059-0A1C-41BD-B762-E064C8E1D39A}|Demo-bluetooth\\Demo-bluetooth.csproj|solutionrelative:demo-bluetooth\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\Demo-bluetooth\\Demo-bluetooth\\obj\\Debug\\net8.0-android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\.nuget\\packages\\shiny.bluetoothle\\3.3.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Demo-bluetooth\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAewMcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T08:27:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Demo-bluetooth\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T08:27:21.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GattCallback.cs",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\GattCallback.cs",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\GattCallback.cs",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\GattCallback.cs",
+              "RelativeToolTip": "Demo-bluetooth\\GattCallback.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAewBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:16:30.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BluetoothReceiver .cs",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\BluetoothReceiver .cs",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\BluetoothReceiver .cs",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\BluetoothReceiver .cs",
+              "RelativeToolTip": "Demo-bluetooth\\BluetoothReceiver .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:43:12.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\MainPage.xaml.cs",
+              "RelativeToolTip": "Demo-bluetooth\\MainPage.xaml.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAQwGQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:14:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\MainPage.xaml",
+              "RelativeToolTip": "Demo-bluetooth\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T07:11:57.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\Demo-bluetooth\\Demo-bluetooth\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\admin\\Documents\\GitHub\\Demo-bluetooth\\Demo-bluetooth\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\Demo-bluetooth\\Demo-bluetooth\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\admin\\Documents\\GitHub\\Demo-bluetooth\\Demo-bluetooth\\obj\\Debug\\net8.0-android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-30T07:49:46.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\AppShell.xaml",
+              "RelativeToolTip": "Demo-bluetooth\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T07:11:56.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\.nuget\\packages\\shiny.bluetoothle\\3.3.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\admin\\.nuget\\packages\\shiny.bluetoothle\\3.3.3\\readme.txt",
+              "ToolTip": "C:\\Users\\admin\\.nuget\\packages\\shiny.bluetoothle\\3.3.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\admin\\.nuget\\packages\\shiny.bluetoothle\\3.3.3\\readme.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-29T07:11:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo-bluetooth.csproj",
+              "DocumentMoniker": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\Demo-bluetooth.csproj",
+              "RelativeDocumentMoniker": "Demo-bluetooth\\Demo-bluetooth.csproj",
+              "ToolTip": "C:\\Users\\OTC\\Downloads\\Demobluetooth\\Demo-bluetooth\\Demo-bluetooth\\Demo-bluetooth.csproj",
+              "RelativeToolTip": "Demo-bluetooth\\Demo-bluetooth.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T07:10:11.032Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
